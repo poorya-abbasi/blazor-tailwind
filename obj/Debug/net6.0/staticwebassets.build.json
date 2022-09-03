@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "xnTBItsLBATnhX+9c9ieW3iKoXiHcodFKcS+1o/M6QM=",
+  "Source": "blazor",
+  "BasePath": "_content/blazor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "blazor/wwwroot",
+      "Source": "blazor",
+      "ContentRoot": "/Users/poorya/Projects/blazor/wwwroot/",
+      "BasePath": "_content/blazor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/poorya/Projects/blazor/wwwroot/app.css",
+      "SourceId": "blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/poorya/Projects/blazor/wwwroot/",
+      "BasePath": "_content/blazor",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/app.css"
+    },
+    {
+      "Identity": "/Users/poorya/Projects/blazor/wwwroot/favicon.ico",
+      "SourceId": "blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/poorya/Projects/blazor/wwwroot/",
+      "BasePath": "_content/blazor",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    }
+  ]
+}
